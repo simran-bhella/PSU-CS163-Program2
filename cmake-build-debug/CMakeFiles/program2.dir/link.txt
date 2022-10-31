@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/program2.dir/main.cpp.o CMakeFiles/program2.dir/shopping.cpp.o  -o program2 

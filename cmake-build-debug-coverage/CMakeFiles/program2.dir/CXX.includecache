@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/mnt/d/Development/CS163/program2/shopping.cpp
+shopping.h
+/mnt/d/Development/CS163/program2/shopping.h
+
+/mnt/d/Development/CS163/program2/shopping.h
+iostream
+-
+cctype
+-
+cstring
+-
+stack
+-
+
